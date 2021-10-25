@@ -14,4 +14,4 @@ This shoudl provide the .jar file in the target build directory.
 ## run
 The .jar file (and the included Spring Boot Admin Server) can be started using;
 
-'java -jar filename.jar'
+`java -jar filename.jar`
